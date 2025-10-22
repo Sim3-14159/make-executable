@@ -40,7 +40,7 @@ make-executable is a simple Raspberry Pi command-line tool that allows you to ma
 <br>
 
 ## 💻 Dependencies
-- Python 3.*x* as your default version of Python.
+- Python 3.*x*.
 
 ---
 <br>
